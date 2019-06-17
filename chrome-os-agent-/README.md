@@ -12,6 +12,7 @@ Adding files:
 3) git add <filename>
 4) git commit -m "STORY-ID: Changes done"
 5) git push -u origin master 
+6) git Newline added
 
 
 ToDO:
