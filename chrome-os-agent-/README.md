@@ -14,6 +14,7 @@ Adding files:
 5) git push -u origin master 
 6) git Newline added
 7) git new1 added
+8) git new2 added
 
 
 ToDO:
